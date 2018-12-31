@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gelstudios/gitfiti.svg?branch=master)](https://travis-ci.org/gelstudios/gitfiti)
+[![Build Status](https://travis-ci.org/gelstudios/gitfiti.svg?branch=master)](https://travis-ci.org/gelstudios/gitfiti) 
 
 gitfiti _noun_ : Carefully crafted graffiti in a github commit history calendar.  
 
